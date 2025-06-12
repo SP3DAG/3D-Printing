@@ -1,9 +1,9 @@
-Development of three different holding mechanisms for the Bluetooth shutter button
+Development of one final holding mechanisms for the Bluetooth shutter button
 
---> Problems encounterd: 
+--> Changes: 
 
-*1.* Material is very stiff
+*1.* Smaller inlet for shutter button
 
-*2.* 3D Printer is very accourate
+*2.* Better grip when pullig out
 
-*3.* Mechanisms can not open due to construction error
+*3.* Improved dimensions, so it fits better

@@ -1,1 +1,1 @@
-Problems encountered:
+First idea and implementation of the projected design
