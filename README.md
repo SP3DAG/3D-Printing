@@ -14,17 +14,19 @@ A 3D-printed phone case for the iPhone 16e that mimics the design of a digital c
 
 ## Print Settings
 
-* **Printer:** Compatible printer models
-* **Resolution:** Recommended layer height
-* **Infill:** Recommended percentage
-* **Supports:** Required or not
-* **Material:** Recommended materials (PLA, PETG, ABS, etc.)
-* **Nozzle Temperature:** Recommended temperature range
-* **Bed Temperature:** Recommended temperature range
+* **Printer:** Bambu Lab X1 Carbon
+* **Resolution:** 0.2 mm
+* **Infill:** 15%
+* **Supports:** Required
+* **Material:** PLA (any colour)
 
 ## Files Included
 
+<<<<<<< HEAD
 * [![Download STL](https://img.shields.io/badge/Download-STL%20File-blue?style=flat-square&logo=download)](./development/Final%20Release/iPhone%2016e%20Camera%20Case%20Final%20Release.stl) **iPhone 16e Camera Case Final Release** - These 3 objects allow you to choose what to print by toggling the visibility of different components and export it as a .stl file for the 3D printer
+=======
+* [![Download 3MF](https://img.shields.io/badge/Download-3MF%20File-blue?style=flat-square&logo=download)](./development/Final%20Release/iPhone%2016e%20Camera%20Case%20Final%20Release.3mf) **iPhone 16e Camera Case Final Release** - Here you have 3 objects and you can decide what to print by changing the visibility of different parts
+>>>>>>> 3639038 (update 3MF file)
 
 ## Assembly Instructions
 
