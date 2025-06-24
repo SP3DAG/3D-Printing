@@ -19,6 +19,7 @@ A 3D-printed phone case for the iPhone 16e that mimics the design of a digital c
 * **Infill:** 15%
 * **Supports:** Required
 * **Material:** PLA (any colour)
+* **Additional Information:** download the .3MF file and open it in the slicer program
 
 ## Files Included
 
