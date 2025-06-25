@@ -1,6 +1,11 @@
 # 3D-Printing
 
 This is the ReadMe.md file for the 3D-Printing process for the Study Project: Desinformation and Geomedia SoSe 2025
+
+## How to print?
+
+Go to Releases and download the .3MF file. Open this file in your slicer programm of your choice (bambuStudio). All settings you need are saved in this .3MF file and you can basically just click on "Print Plate".
+
 ## Description
 
 A 3D-printed phone case for the iPhone 16e that mimics the design of a digital camera. The case features an ergonomic grip for better handling while taking photos and an integrated Bluetooth shutter button for professional shots. This project combines modern smartphone technology with the nostalgic design of classic cameras.
